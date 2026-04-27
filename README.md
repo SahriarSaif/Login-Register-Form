@@ -1,17 +1,20 @@
-Login & Signup Form
+## Login & Signup Form
 
 Simple Login & Signup UI using HTML, CSS, and JavaScript.
 
-Features
+## Features
 
 - Toggle between Login & Signup
 - Clean and responsive design
 
-Usage
+## Usage
 
 Open "index.html" in your browser.
 
-Developer
+## Preview
+![Preview](preview.jpg)
+
+## Developer
 
 Sahriar Saif
 https://github.com/sahriarsaif
